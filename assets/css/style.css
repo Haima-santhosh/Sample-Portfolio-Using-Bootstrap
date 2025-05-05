@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+    
+}
+.nav-link:hover
+{
+color:#7f7d7d !important;
+}
+.project-img {
+    height: 200px !important;
+    object-fit: cover !important;
+    width: 100%;
+    display: block;
+  }
+  
+ 
